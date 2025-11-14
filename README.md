@@ -1,2 +1,4 @@
 # PONG_dos
-PONG for 16-64 bit system, test with qemu and DOSBox, it's a little bit flashing in DOSbos
+PONG suitable for 16-64 bit systems, tested using qemu and DOSBox, with slight flicker in DOSbos  
+It also have boot secotr!  
+You can insert the floopy.img into your computer, turn on and play it.
